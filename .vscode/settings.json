@@ -1,0 +1,13 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        90
+    ],
+    "clangd.fallbackFlags": [
+        "-I/opt/local/avr/include",
+        "-I/opt/local/avr/include/avr",
+        "-I/opt/local/avr/include/avr",
+    ]
+}

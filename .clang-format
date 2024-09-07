@@ -1,0 +1,9 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 90
+DerivePointerAlignment: false
+PointerAlignment: Left
+AlignAfterOpenBracket: Align
+BinPackArguments: false
+BinPackParameters: false
+AllowShortIfStatementsOnASingleLine: true

@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - "-I/opt/local/avr/include"
+    - "-I/opt/local/avr/include/avr"
+    - "-I/opt/local/avr/include/util"
+    - "-I/opt/local/avr/include/sys"
+    - "-I/opt/local/avr/include/compat"
+  Compiler: avr-gcc
