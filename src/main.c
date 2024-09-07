@@ -6,12 +6,9 @@
 #error "F_CPU must be defined"
 #endif
 
-#include <stdint.h>
-
 #include <avr/interrupt.h>
 #include <avr/io.h>
-#include <avr/sfr_defs.h>
-#include <util/delay.h>
+#include <stdint.h>
 
 #define BTN1 PB0
 #define BTN2 PB2
